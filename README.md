@@ -11,3 +11,5 @@ To run the application:
 * to start the `controller` client, open the URL `localhost:8000/controller` in your browser
 
 To run the `player` client on your mobile device you have to connect to the same network as the server and open `<server address>:8000` in a browser on the mobile device.
+
+The number of devices and the sound streams are configured in the setup-file `src/shared/setup.js`. Changing this configuration requires the transpilation of the source code.
