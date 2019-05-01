@@ -21,10 +21,6 @@ export default {
     url: "http://locus.creacast.com:9001/berlin_neukoelln.ogg",
     description: "Hinterhof Friedelstraße, Berlin-Neukölln, Germany",
   }, {
-    name: "Kolkata - Chittaranjan Colony",
-    url: "http://locus.creacast.com:9001/kolkata_chittaranjan_colony.mp3",
-    description: "Chittaranjan Colony, Kolkata, West Bengal, India",
-  }, {
     name: "Jeju - Georo",
     url: "http://locus.creacast.com:9001/jeju_georo.mp3",
     description: "Culture Space Yang, Georo village, Jeju-si, Jeju-do, South Korea",
