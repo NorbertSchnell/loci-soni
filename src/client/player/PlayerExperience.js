@@ -51,7 +51,7 @@ class PlayerExperience extends soundworks.Experience {
       this.sharedParams.addParamListener('stream-' + (client.index + 1), this.updateStream);
 
       window.addEventListener('touchstart', this.onTouch, false);
-      window.addEventListener('mousedown', this.onTouch, false);
+      window.addEventListener('click', this.onTouch, false);
     });
   }
 
