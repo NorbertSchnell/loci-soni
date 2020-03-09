@@ -1,5 +1,5 @@
 export default {
-  maxPlayers: 6,
+  maxPlayers: 12,
   streams: [{
     name: "Jasper Ridge - Birdcast",
     url: "http://locus.creacast.com:9001/jasper_ridge_birdcast.mp3",
